@@ -1,0 +1,11 @@
+print("Hello World !\n")
+x = "Techno India University"
+print(x+"\n")
+print("Some direct calculations:\n")
+print(3+2,3/2,3-2,3*2,3%2,"\n")
+print("Print some data types:\n")
+print(type(1))
+print(type(1.5))
+print(type((1,2,3)))
+print(type({1,2,3}))
+print(type([1,2,3]))

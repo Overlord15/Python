@@ -1,0 +1,17 @@
+Select * from Student where Marks>50;
+Select Name, Roll_No from Student where Marks>50;
+Select distinct Discipline from Student;
+Select Name,Roll_No from Student where Discipline='CSE';
+Select Name from Student where Marks between 60 and 70;
+Select * from Student where Discipline in ('ECE','ME');
+Select Name,Roll_No from Student order by Marks Desc;
+Select Name, Roll_No from Student where Marks is NULL;
+Select Name, Roll_No from Student where Marks is not NULL;
+Select Name as [Student's Name], Marks as [Marks Obtained] from Student;
+Select Name, Roll_No from Student where Name like 'S%';
+Select Name, Roll_No from Student where Name like 'ANI_';
+Select sum(Marks) from Student where Marks is not NULL;
+Select avg(Marks) from Student where Marks is not NULL;
+Select max(Marks) from Student;
+Select min(Marks) from Student;
+Select count(*) from Student where Marks>=50;

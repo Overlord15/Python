@@ -1,0 +1,31 @@
+Here are all the questions as shown in the images:
+
+1. To determine the product and average of any two given numbers.
+
+2. To determine the simple interest on a given amount of money at a given rate of interest for a given period of time.
+
+3. To determine wage of workers for certain hours of work at a given hourly rate.
+
+4. To determine the stock value of a store of certain item on the basis of its unit cost and quantities held in the stock.
+
+5. To determine the remainder when one number is divided by another number.
+
+6. To determine the value of an exponential expression of the form \( a^b \) on the basis of a given base and the power to be raised.
+
+7. To determine the area of a parallelogram.
+
+8. To determine the area of the walls of a rectangular room and hence the cost of its painting on the basis of charge per square unit.
+
+9. To determine the area of a cone.
+
+10. To determine the perimeter of a triangular plot.
+
+11. To determine the area and perimeter of a square.
+
+12. To determine the miles on the basis of given kilometers.
+
+13. To determine the acceleration due to gravity on the basis of the effective length of a simple pendulum.
+
+14. To determine the volume a certain mass of gas at a given temperature and pressure when the volume is known at the normal pressure and at the absolute temperature.
+
+15. To determine the net salary of an employee when it is known that the employee is eligible to dearness allowance (DA) of 97% of the basic pay, House Rent Allowance (HRA) of 57% of the basic pay and medical allowance of Rs.150. It is further known that 12% of the basic pay is deducted from the gross salary for the Employees' Provident fund (EPF) and Rs. 200 is deducted from the gross pay as the professional tax.
